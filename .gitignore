@@ -1,0 +1,12 @@
+*.swp
+*.pyc
+*.log
+*.logv
+*.cmd
+*.lib
+*.lef
+*.def
+*.v
+*.dat
+**/__pycache__/
+
