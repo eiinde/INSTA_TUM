@@ -14,10 +14,11 @@ See [LICENSE.txt](LICENSE.txt) for full terms.
 # Installation
 
 ## by docker (recommended)
-'''
+```
 cd <INSTA directory>
 docker build -t insta_image .
-'''
+docker run --gpus all -it --rm   -v "$(pwd)":/workspace   -w /workspace   --name instadevn   insta_image:latest   bash
+```
 
 ## by conda/mamba
 ```
