@@ -1,8 +1,5 @@
 # INSTA
 
-<img width="468" alt="INSTA_flow" src="https://github.com/user-attachments/assets/56685bdf-a752-448d-8369-af429842dfb8" />
-
-
 A GPU-accelerated, Differentiable Static Timing Analysis Engine for Industrial Physical Design Applications
 
 INSTA is the first-ever differentiable GPU-STA framework that achieves near-perfect endpoint slack correlation to an industry-standard commercial signoff tool with OCV support for advanced technology nodes. On a design with 15 millions pins, INSTA performs full-graph timing propagation in less than 0.1 seconds with 0.999 correlation to the reference signoff tool.
@@ -11,6 +8,8 @@ INSTA's GPU-accelerated Top-K statistical arrival propagation CUDA kernel effici
 
 INSTA’s capability as a fast timing evaluator can be used in physical design flow directly, bringing 25x runtime improvement over reference tool’s incremental timing analysis.
 It can also be used to create “timing gradients” to enable truly global, differentiable timing optimization for physical design tasks.
+
+<img width="468" alt="INSTA_flow" src="https://github.com/user-attachments/assets/56685bdf-a752-448d-8369-af429842dfb8" />
 
 ## License
 
