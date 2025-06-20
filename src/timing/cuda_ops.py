@@ -1,9 +1,15 @@
-"""
-CUDA acceleration operations for INSTA timing analysis
-
-This module provides CUDA-accelerated timing propagation functions for
-improved performance on large designs.
-"""
+# Copyright (c) 2025, NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+#
+# NVIDIA CORPORATION, its affiliates and licensors retain all intellectual
+# property and proprietary rights in and to this material, related
+# documentation and any modifications thereto. Any use, reproduction,
+# disclosure or distribution of this material and related documentation
+# without an express license agreement from NVIDIA CORPORATION or
+# its affiliates is strictly prohibited.
+#
+# @author Yi-Chen Lu
+# @file timing/collaterals.py
+# @brief CUDA accelerated timing operations
 
 import time
 import torch

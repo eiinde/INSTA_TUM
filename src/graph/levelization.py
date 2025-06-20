@@ -1,10 +1,15 @@
-"""
-Graph levelization algorithms for INSTA timing analysis
-
-This module provides functions to levelize a directed graph for static timing analysis.
-Levelization assigns nodes to discrete levels based on their topological position,
-which enables efficient parallel computation of timing.
-"""
+# Copyright (c) 2025, NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+#
+# NVIDIA CORPORATION, its affiliates and licensors retain all intellectual
+# property and proprietary rights in and to this material, related
+# documentation and any modifications thereto. Any use, reproduction,
+# disclosure or distribution of this material and related documentation
+# without an express license agreement from NVIDIA CORPORATION or
+# its affiliates is strictly prohibited.
+#
+# @author Yi-Chen Lu
+# @file core/levelization.py
+# @brief graph levelization algorithms
 
 import os
 import collections

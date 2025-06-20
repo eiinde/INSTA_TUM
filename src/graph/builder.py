@@ -1,10 +1,15 @@
-"""
-Graph construction functions for INSTA timing analysis
-
-This module provides functions to build and manipulate the timing graph
-used for static timing analysis. It supports both NetworkX and graph-tool
-backends for different performance characteristics.
-"""
+# Copyright (c) 2025, NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+#
+# NVIDIA CORPORATION, its affiliates and licensors retain all intellectual
+# property and proprietary rights in and to this material, related
+# documentation and any modifications thereto. Any use, reproduction,
+# disclosure or distribution of this material and related documentation
+# without an express license agreement from NVIDIA CORPORATION or
+# its affiliates is strictly prohibited.
+#
+# @author Yi-Chen Lu
+# @file core/insta.py
+# @brief Graph construction functions
 
 import os
 import time
