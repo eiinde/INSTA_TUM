@@ -1,4 +1,6 @@
-# INSTA<img width="468" alt="INSTA_flow" src="https://github.com/user-attachments/assets/56685bdf-a752-448d-8369-af429842dfb8" />
+# INSTA
+
+<img width="468" alt="INSTA_flow" src="https://github.com/user-attachments/assets/56685bdf-a752-448d-8369-af429842dfb8" />
 
 
 A GPU-accelerated, Differentiable Static Timing Analysis Engine for Industrial Physical Design Applications
