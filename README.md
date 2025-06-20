@@ -16,6 +16,7 @@ See [LICENSE.txt](LICENSE.txt) for full terms.
 
 ## Paper
 https://research.nvidia.com/labs/electronic-design-automation/papers/yichen_INSTA_dac25.pdf
+
 INSTA is nominated for Best Paper Award at DAC'2025
 
 ## [Note] Key Requirements for Pre-Compiled Kernels
