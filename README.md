@@ -14,6 +14,10 @@ It can also be used to create “timing gradients” to enable truly global, dif
 This software is released under the NVIDIA Source Code License.
 See [LICENSE.txt](LICENSE.txt) for full terms.
 
+## Paper
+https://research.nvidia.com/labs/electronic-design-automation/papers/yichen_INSTA_dac25.pdf
+INSTA is nominated for Best Paper Award at DAC'2025
+
 ## [Note] Key Requirements for Pre-Compiled Kernels
 - Ubuntu 20.04
 - CUDA 11.8
