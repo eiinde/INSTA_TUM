@@ -65,4 +65,5 @@ you can obtain "insta.netArc_2_riseFallGrads" and "insta.cellArc_2_riseFallGrads
 ```
 insta.do_eval_propagation(plot=True)
 ```
+![Slack Correlation](https://github.com/NVlabs/INSTA/blob/main/testcase/aes_cipher_top/outputs/plots/slack_corr.png?raw=true)
 
