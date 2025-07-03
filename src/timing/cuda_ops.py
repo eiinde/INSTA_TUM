@@ -14,7 +14,7 @@
 import time
 import torch
 from typing import Dict, List, Set, Tuple, Optional, Union, Any
-import src.installed_ops.sta_compute_arrival.compute_arrival as compute_arrival
+import installed_ops.sta_compute_arrival.compute_arrival as compute_arrival
 import ipdb
 
 
